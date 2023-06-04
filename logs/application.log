@@ -275,3 +275,11 @@
 02:46:47.370 [main] ERROR org.example.SortingApp - invalid nonDigit argument found
 02:46:47.374 [main] ERROR org.example.SortingApp - invalid nonDigit argument found
 02:46:47.380 [main] ERROR org.example.SortingApp - invalid nonDigit argument found
+22:38:16.073 [main] ERROR org.example.SortingApp - Invalid input: no arguments provided
+22:38:16.095 [main] ERROR org.example.SortingApp - Invalid input: no arguments provided
+22:38:16.422 [main] ERROR org.example.SortingApp - invalid nonDigit argument found
+22:38:16.457 [main] ERROR org.example.SortingApp - invalid nonDigit argument found
+22:38:16.465 [main] ERROR org.example.SortingApp - invalid nonDigit argument found
+22:38:16.484 [main] ERROR org.example.SortingApp - invalid nonDigit argument found
+22:38:16.490 [main] ERROR org.example.SortingApp - invalid nonDigit argument found
+22:38:16.568 [main] ERROR org.example.SortingApp - invalid nonDigit argument found
